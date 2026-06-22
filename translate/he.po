@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TahoeLauncher\n"
 "Report-Msgid-Bugs-To: https://github.com/EliverLara/TahoeLauncher\n"
-"POT-Creation-Date: 2026-02-20 17:29-0600\n"
+"POT-Creation-Date: 2026-06-22 12:58-0600\n"
 "PO-Revision-Date: 2026-02-04 21:05+0200\n"
 "Last-Translator: Omer I.S <omeritzicschwartz@gmail.com>.\n"
 "Language-Team: Hebrew\n"
@@ -98,6 +98,14 @@ msgstr "היסט מקצה המסך (0 כברירת מחדל):"
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Offset Panel (0 is Default):"
 msgstr "היסט מהלוח (0 כברירת מחדל):"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Session Actions"
+msgstr ""
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Show session actions button (shutdown, restart, logout)"
+msgstr ""
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Grids and lists"
